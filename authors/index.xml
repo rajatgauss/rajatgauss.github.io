@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ras&#39; Corner</title>
+    <link>https://rajatgauss.github.io/authors/</link>
+      <atom:link href="https://rajatgauss.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 | rajatsethi</copyright>
+    <image>
+      <url>https://rajatgauss.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://rajatgauss.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://rajatgauss.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatgauss.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Rajat Sethi is a student of Mechanical Engineering at UC San Diego. His research interests include design of algorithms for distributed energy systems like integrated solar and storage and electric vehicle charging. Recently, he has also been involved in the research of battery control systems. He is pursuing his graduate research under Professor Jan Kleissl.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
