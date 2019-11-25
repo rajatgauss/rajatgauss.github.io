@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>control | Ras&#39; Corner</title>
+    <link>https://rajatgauss.github.io/tags/control/</link>
+      <atom:link href="https://rajatgauss.github.io/tags/control/index.xml" rel="self" type="application/rss+xml" />
+    <description>control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 | rajatsethi</copyright><lastBuildDate>Mon, 25 Nov 2019 12:24:49 -0800</lastBuildDate>
+    <image>
+      <url>https://rajatgauss.github.io/img/icon-192.png</url>
+      <title>control</title>
+      <link>https://rajatgauss.github.io/tags/control/</link>
+    </image>
+    
+    <item>
+      <title>Battery Management System</title>
+      <link>https://rajatgauss.github.io/project/control_1/</link>
+      <pubDate>Mon, 25 Nov 2019 12:24:49 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/project/control_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Estimation Filters</title>
+      <link>https://rajatgauss.github.io/project/control/</link>
+      <pubDate>Mon, 25 Nov 2019 12:24:49 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/project/control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
