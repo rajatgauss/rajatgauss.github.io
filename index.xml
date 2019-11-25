@@ -5,12 +5,20 @@
     <link>https://rajatgauss.github.io/</link>
       <atom:link href="https://rajatgauss.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ras&#39; Corner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 | rajatsethi</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 | rajatsethi</copyright><lastBuildDate>Mon, 25 Nov 2019 12:27:23 -0800</lastBuildDate>
     <image>
       <url>https://rajatgauss.github.io/img/icon-192.png</url>
       <title>Ras&#39; Corner</title>
       <link>https://rajatgauss.github.io/</link>
     </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rajatgauss.github.io/project/</link>
+      <pubDate>Mon, 25 Nov 2019 12:27:23 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

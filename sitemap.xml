@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rajatgauss.github.io/tags/battery/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/project/cnn/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/tags/deep-learn/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/project/optimization/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/tags/optimization/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/project/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/tags/</loc>
+    <lastmod>2019-11-25T12:27:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/project/control_1/</loc>
+    <lastmod>2019-11-25T12:24:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/tags/control/</loc>
+    <lastmod>2019-11-25T12:24:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/project/lstm/</loc>
+    <lastmod>2019-11-25T12:24:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajatgauss.github.io/project/control/</loc>
+    <lastmod>2019-11-25T12:24:49-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rajatgauss.github.io/authors/admin/</loc>
   </url>
   
@@ -27,15 +87,7 @@
   </url>
   
   <url>
-    <loc>https://rajatgauss.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://rajatgauss.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rajatgauss.github.io/tags/</loc>
   </url>
   
 </urlset>

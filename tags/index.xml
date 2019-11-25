@@ -5,12 +5,44 @@
     <link>https://rajatgauss.github.io/tags/</link>
       <atom:link href="https://rajatgauss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 | rajatsethi</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 | rajatsethi</copyright><lastBuildDate>Mon, 25 Nov 2019 12:27:23 -0800</lastBuildDate>
     <image>
       <url>https://rajatgauss.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://rajatgauss.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>battery</title>
+      <link>https://rajatgauss.github.io/tags/battery/</link>
+      <pubDate>Mon, 25 Nov 2019 12:27:23 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/tags/battery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learn</title>
+      <link>https://rajatgauss.github.io/tags/deep-learn/</link>
+      <pubDate>Mon, 25 Nov 2019 12:27:23 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/tags/deep-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimization</title>
+      <link>https://rajatgauss.github.io/tags/optimization/</link>
+      <pubDate>Mon, 25 Nov 2019 12:27:23 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>control</title>
+      <link>https://rajatgauss.github.io/tags/control/</link>
+      <pubDate>Mon, 25 Nov 2019 12:24:49 -0800</pubDate>
+      <guid>https://rajatgauss.github.io/tags/control/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
